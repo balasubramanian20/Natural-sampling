@@ -71,4 +71,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/262d55d2-b170-4b63-a098-50510db0439b)
 
 ### Results:
-Natural sampling signal will be displayed in separate plots. Thus implemented using python colab
+Natural sampling signal will be displayed in separate plots. Thus implemented using python colab.
